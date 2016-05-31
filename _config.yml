@@ -56,7 +56,7 @@ address:
   - line: USA
 
 # Credits content
-credits: <a href="https://github.com/jeromelachaud/freelancer-theme/tree/master">Freelance theme</a> by jeromelachoud'
+credits: <a href="https://github.com/jeromelachaud/freelancer-theme/tree/master">Freelance theme</a> by jeromelachoud
 
 # Build settings
 markdown: kramdown
