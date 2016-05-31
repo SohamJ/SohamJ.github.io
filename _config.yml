@@ -1,10 +1,10 @@
 # Site settings
 title: Soham Jambhekar
-email: your-email@domain.com
-url: https://example.github.io
-description: "Write an awesome description for your new site here. You can edit this line in _config.yml. It will appear in your document head meta (for Google search results) and in your feed.xml site description."
+email: soham4jam@gmail.com
+url: https://sohamj.github.io
+description: "Eat. Sleep. Android. Linux"
 skills: "Android Developer - Linux Enthusiast - Guitarist"
-meta_author: LastName FirstName
+meta_author: Jambhekar Soham
 
 # Google webmaster tools
 google_verify:
