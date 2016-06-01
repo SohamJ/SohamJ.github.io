@@ -4,8 +4,5 @@ modal-id: 1
 date: 2016-05-31
 img: orion.png
 alt: image-alt
-project-date: May 2015
-client: Open Source
-category: Android Development
 description: OrionOS is a custom firmware development project based on the Andrid Open Source Project (AOSP). It is headed by a ten member team. Check it out on <a href="https://github.com/TeamOrion">Github</a> or <a href="https://plus.google.com/u/0/communities/111860173543944260545">Google+</a>.
 ---
