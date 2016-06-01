@@ -1,7 +1,7 @@
 ---
 layout: default
 modal-id: 1
-date: 2016-31-5
+date: 2016-05-31
 img: orion.png
 alt: image-alt
 project-date: May 2015
