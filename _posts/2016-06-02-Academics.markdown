@@ -6,13 +6,13 @@ img: RU.png
 alt: image-alt
 tag: Academics
 ---
-####Introduction####
+#### Introduction
 
 I received my Bachelors of Science in _Computer Science_ from Rutgers University, NJ. I pursued the first two years of my bachelors at Pune Institute of Computer Technology, India(PICT). I also pursued a minor in _Cognitive Science_ at Rutgers. <br>
 
 ---------------------------------------------------------
 
-####Independent Study####
+#### Independent Study
 
 In senior year, I undertook an independent study under Dr. Ulrich Kremer. My work was focused on maintaining a runtime system for a _service-based framework_ and developing a heuristic that obtained a sub-optimal solution to maximize the overall objective at _minimum energy consumption_. As a part of this independent study, I:
 
@@ -28,7 +28,7 @@ In senior year, I undertook an independent study under Dr. Ulrich Kremer. My wor
 
 --------------------------------------------------------
 
-####Course List####
+#### Course List
 
 __Rutgers Univeristy__
 
