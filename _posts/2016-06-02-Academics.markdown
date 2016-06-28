@@ -4,6 +4,7 @@ modal-id: 2
 date: 2016-06-02
 img: RU.png
 alt: image-alt
+tag: Academics
 ---
 **_Introduction_**<br>
 I received my Bachelors of Science in _Computer Science_ from Rutgers University, NJ. I pursued the first two years of my bachelors at Pune Institute of Computer Technology, India(PICT). I also pursued a minor in _Cognitive Science_ at Rutgers. <br>

@@ -4,6 +4,7 @@ modal-id: 1
 date: 2016-06-01
 img: Linux.png
 alt: image-alt
+tag: Linux
 ---
 
 I am a Linux enthusiast and have been using the Linux-based OS Ubuntu for more than eight years. I love how open-source gives the users the flexibility to customize their desktop. I am currently writing an installation guide to setup Ubuntu, including the tweaks I implement while setting up my desktop. Check it out on <a href="https://github.com/SohamJ/Linux-tweaks" target="_blank" > Github </a>.

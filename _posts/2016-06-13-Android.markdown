@@ -4,6 +4,7 @@ modal-id: 3
 date: 2016-06-13
 img: orion.png
 alt: image-alt
+tag: Android
 ---
 
 OrionOS is a custom firmware development project based on the Andrid Open Source Project (AOSP). I started this project to build a stable ROM for Motorola Moto G(2013) bundled with essential features and sleek performance. It is currently maintained by a ten member team. Check it out on <a href="https://github.com/TeamOrion" target="_blank" >Github </a> or <a href="https://plus.google.com/u/0/communities/111860173543944260545" target="_blank" >Google+</a>. Also check out our Android themes on <a href= "https://play.google.com/store/apps/dev?id=5103264314395409686" target="_blank">Google Play Store</a>.
