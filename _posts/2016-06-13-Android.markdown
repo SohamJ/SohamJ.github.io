@@ -14,14 +14,14 @@ OrionOS is a custom firmware development project based on the Andrid Open Source
 *Screenshots*
 
 _About device_<br>
-![About](https://raw.githubusercontent.com/SohamJ/sohamj.github.io/master/img/orion/About.png)
+<img src = "https://raw.githubusercontent.com/SohamJ/sohamj.github.io/master/img/orion/About.png" width= "240">
 
 
 _Settings_ <br>
-![Settings](https://raw.githubusercontent.com/SohamJ/sohamj.github.io/master/img/orion/Settings.png)
+<img src = "https://raw.githubusercontent.com/SohamJ/sohamj.github.io/master/img/orion/Settings.png" width= "240">
 
 _QS (Quick Settings)_ <br>
-![Quick Settings](https://raw.githubusercontent.com/SohamJ/sohamj.github.io/master/img/orion/QS.png)
+<img src = "https://raw.githubusercontent.com/SohamJ/sohamj.github.io/master/img/orion/QS.png" width= "240">
 
 _OrionOS Features (Universe)_ <br>
-![Orion Features](https://raw.githubusercontent.com/SohamJ/sohamj.github.io/master/img/orion/Universe.png)
+<img src = "https://raw.githubusercontent.com/SohamJ/sohamj.github.io/master/img/orion/Universe.png" width= "240">
