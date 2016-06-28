@@ -7,21 +7,23 @@ alt: image-alt
 tag: Android
 ---
 
-*Introduction*
+####Introduction####
 
 OrionOS is a custom firmware development project based on the Andrid Open Source Project (AOSP). I started this project to build a stable ROM for Motorola Moto G(2013) bundled with essential features and sleek performance. It is currently maintained by a ten member team. Check it out on <a href="https://github.com/TeamOrion" target="_blank" >Github </a> or <a href="https://plus.google.com/u/0/communities/111860173543944260545" target="_blank" >Google+</a>. Also check out our Android themes on <a href= "https://play.google.com/store/apps/dev?id=5103264314395409686" target="_blank">Google Play Store</a>.
 
-*Screenshots*
+<br>
 
-_About device_<br>
+####Screenshots####
+
+__About device__<br>
 <img src = "https://raw.githubusercontent.com/SohamJ/sohamj.github.io/master/img/orion/About.png" width= "240">
 
 
-_Settings_ <br>
+__Settings__ <br>
 <img src = "https://raw.githubusercontent.com/SohamJ/sohamj.github.io/master/img/orion/Settings.png" width= "240">
 
-_QS (Quick Settings)_ <br>
+__QS (Quick Settings)__ <br>
 <img src = "https://raw.githubusercontent.com/SohamJ/sohamj.github.io/master/img/orion/QS.png" width= "240">
 
-_OrionOS Features (Universe)_ <br>
+__OrionOS Features (Universe)__ <br>
 <img src = "https://raw.githubusercontent.com/SohamJ/sohamj.github.io/master/img/orion/Universe.png" width= "240">
