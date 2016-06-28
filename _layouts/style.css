@@ -1,2 +1,4 @@
 {% include css/bootstrap.min.css %}
 {% include css/main.css %}
+
+body {  background-color: #CFD8DC; }
