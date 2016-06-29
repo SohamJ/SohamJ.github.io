@@ -14,7 +14,7 @@ I received my Bachelors of Science in _Computer Science_ from Rutgers University
 
 #### Independent Study
 
-In senior year, I undertook an independent study under Dr. Ulrich Kremer. My work was focused on maintaining a runtime system for a _service-based framework_ and developing a heuristic that obtained a sub-optimal solution to maximize the overall objective at _minimum energy consumption_. As a part of this independent study, I:
+In senior year, I undertook an independent study under Dr. Ulrich Kremer. My research focused on maintaining a runtime system for a _service-based framework_ and developing a heuristic that obtained a sub-optimal solution to maximize the overall objective at _minimum energy consumption_. As a part of this independent study, I:
 
 <left>
   1. Improved the framework design by converting its static   representation as a <i>Scheme</i> or an <i>XML</i> file to a runtime data structure. <br>
@@ -44,7 +44,7 @@ __Rutgers Univeristy__
 __Pune Institute of Computer Technology__
 
   - <b>Data Structures</b>                    <br>
-  - <b>Object Oriented and Multi core Programming</b> <br>
+  - <b>Object Oriented and Multi-core Programming</b> <br>
   - Operating System Administration           <br>
   - Microprocessor Architecture               <br>
   - Discrete Structures                       <br>
