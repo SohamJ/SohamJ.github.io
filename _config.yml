@@ -28,8 +28,8 @@ color:
   primary-rgb: "24,288,156" #"128,179,255"
   secondary: 2c3e50 #FD6E8A
   secondary-dark: 233140 #A2122F
-  primary-dark : 212121 
-  
+  primary-dark : 212121
+
 # Footer settings
 footer:
   copyright: Dr. Henry Jekyll
@@ -52,8 +52,8 @@ social:
 
 # Postal address (add as many lines as necessary)
 address:
-  - line: Apt 826 2260 Ventura Dr.
-  - line: Plano TX 75063
+  - line: 1800 Susquehannock Dr.
+  - line: McLean VA 22101
   - line: USA
 
 # Credits content
